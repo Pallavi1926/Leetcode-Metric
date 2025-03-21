@@ -1,4 +1,4 @@
-//error-> api call
+//error-> api call(graphql,requestOption)
 //error -> cors -> (to solve it -> used proxy url)
 //error -> to find regex
 //error -> try ,catch,finally

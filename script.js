@@ -1,3 +1,7 @@
+//error-> api call
+//error -> cors -> (to solve it -> used proxy url)
+//error -> to find regex
+//error -> try ,catch,finally
 document.addEventListener('DOMContentLoaded', function(){
   
     const searchButton = document.getElementById("search-btn");
